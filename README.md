@@ -5,3 +5,5 @@ In this exercise, we will use k-means clustering to compress an image. When an i
 
 2. If you try to use the same idea for a larger image like Neuschwanstein large.png, you will find that k-Means takes a long time since the image has over a million pixels. Use
 MiniBatchKMeans instead of KMeans from Scikit-learn. Skim this short paper to learn how MiniBatchKMeans works.
+
+See detailed description in the pdf file, problem 5.
